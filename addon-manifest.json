@@ -1,0 +1,10 @@
+{
+  "id": "myaddon",
+  "api": {
+    "config_vars": [ "MYADDON_URL" ],
+    "password": "HAyCiYuDIX5NWXPv",
+    "sso_salt": "8TSXRg970l4a50oD",
+    "production": "https://yourapp.com/",
+    "test": "http://localhost:4567/"
+  }
+}
