@@ -6,5 +6,5 @@ use Rack::Auth::Basic do |name, pass|
 end
 
 post '/heroku/resources' do
-  {id: 1}.to_json
+  {id: 1, config: {MYADDON_HELLO: 'hello'}}.to_json
 end

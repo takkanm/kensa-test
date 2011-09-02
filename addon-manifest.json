@@ -1,7 +1,7 @@
 {
   "id": "myaddon",
   "api": {
-    "config_vars": [ "MYADDON_URL" ],
+    "config_vars": [ "MYADDON_HELLO" ],
     "password": "HAyCiYuDIX5NWXPv",
     "sso_salt": "8TSXRg970l4a50oD",
     "production": "https://yourapp.com/",
